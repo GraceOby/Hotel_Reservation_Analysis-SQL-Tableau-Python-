@@ -12,4 +12,4 @@ Steps Taken:
 5. GitHub Repository
 6. Tableau Dashboards publishing
 
-![hotel_dashboard.png](attachment:hotel_dashboard.png)
+![hotel_dashboard.png](https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-/blob/main/hotel_dashboard.png)
