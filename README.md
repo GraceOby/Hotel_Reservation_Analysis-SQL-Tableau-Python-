@@ -13,3 +13,4 @@ Steps Taken:
 6. Tableau Dashboards publishing
 
 ![hotel_dashboard.png](https://github.com/gracejidael/Hotel_Reservation_Analysis-SQL-Tableau-Python-/blob/main/hotel_dashboard.png)
+[See Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/grace.okeke/viz/BookingAnalysis_17033537640520/Overview?publish=yes)
