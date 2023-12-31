@@ -12,3 +12,4 @@ Steps Taken:
 5. GitHub Repository
 6. Tableau Dashboards publishing
 
+![hotel_dashboard.png](attachment:hotel_dashboard.png)
